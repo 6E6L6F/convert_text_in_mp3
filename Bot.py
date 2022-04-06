@@ -8,9 +8,9 @@ from pyrogram import *
 import random
 app = Client(
     session_name='Elf_Bot',
-    api_hash='9532637c4d95fbc047a14268cb493bbf',
-    api_id='3191570',
-    bot_token='5208662211:AAHw4QN_UYzBa2gZUMSS6qwzcWloK0RQ194',
+    api_hash='',
+    api_id='',
+    bot_token='',
 )
 def Voice(text , lang , n ):
     try:
